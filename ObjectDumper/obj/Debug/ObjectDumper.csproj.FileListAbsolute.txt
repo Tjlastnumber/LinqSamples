@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.dll
+C:\Users\Administrator\Documents\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.pdb
+C:\Users\Administrator\Documents\LinqSamples\ObjectDumper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.dll
+C:\Users\Administrator\Documents\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.pdb

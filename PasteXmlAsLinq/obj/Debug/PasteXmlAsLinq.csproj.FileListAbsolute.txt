@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.AddIn
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.dll
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.pdb
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.CommandBar.resources
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.dll
+C:\Users\Administrator\Documents\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.pdb

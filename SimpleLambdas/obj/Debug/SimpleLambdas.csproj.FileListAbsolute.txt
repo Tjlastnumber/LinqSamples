@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\LinqSamples\SimpleLambdas\bin\Debug\Simple.exe
+C:\Users\Administrator\Documents\LinqSamples\SimpleLambdas\bin\Debug\Simple.pdb
+C:\Users\Administrator\Documents\LinqSamples\SimpleLambdas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\SimpleLambdas\obj\Debug\Simple.exe
+C:\Users\Administrator\Documents\LinqSamples\SimpleLambdas\obj\Debug\Simple.pdb

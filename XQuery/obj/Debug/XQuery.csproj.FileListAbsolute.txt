@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\LinqSamples\XQuery\bin\Debug\Data\bib.xml
+C:\Users\Administrator\Documents\LinqSamples\XQuery\bin\Debug\XQuery.exe
+C:\Users\Administrator\Documents\LinqSamples\XQuery\bin\Debug\XQuery.pdb
+C:\Users\Administrator\Documents\LinqSamples\XQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\XQuery\obj\Debug\XQuery.exe
+C:\Users\Administrator\Documents\LinqSamples\XQuery\obj\Debug\XQuery.pdb

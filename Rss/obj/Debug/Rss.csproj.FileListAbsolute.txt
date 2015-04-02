@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\LinqSamples\Rss\bin\Debug\Rss.exe
+C:\Users\Administrator\Documents\LinqSamples\Rss\bin\Debug\Rss.pdb
+C:\Users\Administrator\Documents\LinqSamples\Rss\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\Rss\obj\Debug\Rss.exe
+C:\Users\Administrator\Documents\LinqSamples\Rss\obj\Debug\Rss.pdb

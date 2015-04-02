@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\LinqSamples\SimpleLinqToXml\bin\Debug\SimpleLinqToXml.exe
+C:\Users\Administrator\Documents\LinqSamples\SimpleLinqToXml\bin\Debug\SimpleLinqToXml.pdb
+C:\Users\Administrator\Documents\LinqSamples\SimpleLinqToXml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\SimpleLinqToXml\obj\Debug\SimpleLinqToXml.exe
+C:\Users\Administrator\Documents\LinqSamples\SimpleLinqToXml\obj\Debug\SimpleLinqToXml.pdb

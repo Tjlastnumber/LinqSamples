@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\bin\Debug\WinFormsDataBinding.exe
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\bin\Debug\WinFormsDataBinding.pdb
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\bin\Debug\NorthwindMapping.dll
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\bin\Debug\NorthwindMapping.pdb
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\obj\Debug\WinFormsDataBinding.EmployeeForm.resources
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\obj\Debug\WinFormsDataBinding.EmployeeManagerGrids.resources
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\obj\Debug\WinFormsDataBinding.Properties.Resources.resources
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\obj\Debug\WinFormsDataBinding.exe
+C:\Users\Administrator\Documents\LinqSamples\WinFormsDataBinding\obj\Debug\WinFormsDataBinding.pdb

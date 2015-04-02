@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\bin\Debug\LinqToSqlQueryVisualizer.dll
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\bin\Debug\LinqToSqlQueryVisualizer.pdb
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.Properties.Resources.resources
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult.resources
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult2.resources
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryVisualizerForm.resources
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.dll
+C:\Users\Administrator\Documents\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.pdb

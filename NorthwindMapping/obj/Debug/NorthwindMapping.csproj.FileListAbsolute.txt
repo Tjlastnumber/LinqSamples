@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll.config
+C:\Users\Administrator\Documents\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll
+C:\Users\Administrator\Documents\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.pdb
+C:\Users\Administrator\Documents\LinqSamples\NorthwindMapping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.dll
+C:\Users\Administrator\Documents\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.pdb

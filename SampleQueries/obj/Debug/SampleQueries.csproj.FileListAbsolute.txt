@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+C:\Users\Administrator\Documents\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+C:\Users\Administrator\Documents\LinqSamples\SampleQueries\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+C:\Users\Administrator\Documents\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\Administrator\Documents\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+C:\Users\Administrator\Documents\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\LinqSamples\Reflector\bin\Debug\Reflector.exe
+C:\Users\Administrator\Documents\LinqSamples\Reflector\bin\Debug\Reflector.pdb
+C:\Users\Administrator\Documents\LinqSamples\Reflector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\Reflector\obj\Debug\Reflector.exe
+C:\Users\Administrator\Documents\LinqSamples\Reflector\obj\Debug\Reflector.pdb

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe.config
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.pdb
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.dll
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.pdb
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.exe
+C:\Users\Administrator\Documents\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.pdb
